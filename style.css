@@ -1,0 +1,13 @@
+main {
+    position: relative;
+}
+
+input.form-control, button.btn-danger, button.btn-outline-danger {
+    width: 90%;
+    height: 3em;
+}
+
+button.btn-close {
+    position: absolute;
+    right: .75em;
+}
